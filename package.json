@@ -5,6 +5,8 @@
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@ethersproject/providers": "^5.6.8",
+    "@mui/material": "^5.9.3",
+    "@mui/styled-engine-sc": "^5.9.3",
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
